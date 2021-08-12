@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "https://frankscippo.github.io/csb-1xjy8/static/css/main.49dce4c7.chunk.css",
-    "main.js": "https://frankscippo.github.io/csb-1xjy8/static/js/main.4037bb21.chunk.js",
-    "main.js.map": "https://frankscippo.github.io/csb-1xjy8/static/js/main.4037bb21.chunk.js.map",
+    "main.css": "https://frankscippo.github.io/csb-1xjy8/static/css/main.30a84e8b.chunk.css",
+    "main.js": "https://frankscippo.github.io/csb-1xjy8/static/js/main.a7c8e94e.chunk.js",
+    "main.js.map": "https://frankscippo.github.io/csb-1xjy8/static/js/main.a7c8e94e.chunk.js.map",
     "runtime-main.js": "https://frankscippo.github.io/csb-1xjy8/static/js/runtime-main.03d7bd9d.js",
     "runtime-main.js.map": "https://frankscippo.github.io/csb-1xjy8/static/js/runtime-main.03d7bd9d.js.map",
-    "static/js/2.eddce76b.chunk.js": "https://frankscippo.github.io/csb-1xjy8/static/js/2.eddce76b.chunk.js",
-    "static/js/2.eddce76b.chunk.js.map": "https://frankscippo.github.io/csb-1xjy8/static/js/2.eddce76b.chunk.js.map",
+    "static/js/2.97f87535.chunk.js": "https://frankscippo.github.io/csb-1xjy8/static/js/2.97f87535.chunk.js",
+    "static/js/2.97f87535.chunk.js.map": "https://frankscippo.github.io/csb-1xjy8/static/js/2.97f87535.chunk.js.map",
     "index.html": "https://frankscippo.github.io/csb-1xjy8/index.html",
-    "static/css/main.49dce4c7.chunk.css.map": "https://frankscippo.github.io/csb-1xjy8/static/css/main.49dce4c7.chunk.css.map",
-    "static/js/2.eddce76b.chunk.js.LICENSE.txt": "https://frankscippo.github.io/csb-1xjy8/static/js/2.eddce76b.chunk.js.LICENSE.txt",
+    "static/css/main.30a84e8b.chunk.css.map": "https://frankscippo.github.io/csb-1xjy8/static/css/main.30a84e8b.chunk.css.map",
+    "static/js/2.97f87535.chunk.js.LICENSE.txt": "https://frankscippo.github.io/csb-1xjy8/static/js/2.97f87535.chunk.js.LICENSE.txt",
     "static/media/ONDE.bf63956e.png": "https://frankscippo.github.io/csb-1xjy8/static/media/ONDE.bf63956e.png",
     "static/media/PALMA 1.406c63b3.png": "https://frankscippo.github.io/csb-1xjy8/static/media/PALMA 1.406c63b3.png",
     "static/media/PALMA 2.9ce2d267.png": "https://frankscippo.github.io/csb-1xjy8/static/media/PALMA 2.9ce2d267.png",
     "static/media/Ruota 1.89edbaff.png": "https://frankscippo.github.io/csb-1xjy8/static/media/Ruota 1.89edbaff.png",
     "static/media/Ruota 2.b514c6d0.png": "https://frankscippo.github.io/csb-1xjy8/static/media/Ruota 2.b514c6d0.png",
-    "static/media/TITLE.1638e7d8.png": "https://frankscippo.github.io/csb-1xjy8/static/media/TITLE.1638e7d8.png",
+    "static/media/TITLEx.09a353af.png": "https://frankscippo.github.io/csb-1xjy8/static/media/TITLEx.09a353af.png",
     "static/media/duck_sound.e6a1b2d8.wav": "https://frankscippo.github.io/csb-1xjy8/static/media/duck_sound.e6a1b2d8.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.03d7bd9d.js",
-    "static/js/2.eddce76b.chunk.js",
-    "static/css/main.49dce4c7.chunk.css",
-    "static/js/main.4037bb21.chunk.js"
+    "static/js/2.97f87535.chunk.js",
+    "static/css/main.30a84e8b.chunk.css",
+    "static/js/main.a7c8e94e.chunk.js"
   ]
 }
